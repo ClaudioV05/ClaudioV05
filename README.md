@@ -7,7 +7,7 @@
 ## Tecnology:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="90" height="90" />      
-<\div>
+</div>
   
 ## Contact:
 <div>
