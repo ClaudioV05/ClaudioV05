@@ -1,5 +1,7 @@
 ### Hi there👋 Welcome to my Github profile.
 
+## My name is CLAUDIOMIDO VENTURA and my nickname is "ClaudioV05"!
+
 <!--
 **ClaudioV05/ClaudioV05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
