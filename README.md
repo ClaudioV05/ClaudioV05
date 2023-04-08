@@ -1,4 +1,4 @@
-### Hi there👋 Welcome to my Github profile.
+### Hi👋 Welcome to my Github profile.
 
 ### My name is CLAUDIOMIDO VENTURA and my nickname is "ClaudioV05"!
 
