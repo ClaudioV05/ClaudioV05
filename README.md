@@ -1,6 +1,6 @@
 ### Hi👋 Welcome to my Github profile.
 
-### My name is✨CLAUDIOMIDO VENTURA✨and my nickname is "ClaudioV05"!
+### Hi I'm ✨CLAUDIOMIDO VENTURA✨
 
 - ⚡ I’m currently working on Development of Software with Developer FullStack
 
