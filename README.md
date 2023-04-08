@@ -1,4 +1,4 @@
-### Hey I'm CLAUDIOMIDO VENTURA✨
+### Hey, I'm CLAUDIOMIDO VENTURA⚡
 <hr />
 
 I'm currently working on Development of Software FullStack.
