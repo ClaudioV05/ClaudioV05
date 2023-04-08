@@ -12,4 +12,5 @@
 
 
 ## Tecnology:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />          
+<i class="devicon-csharp-plain colored"></i>
+          
