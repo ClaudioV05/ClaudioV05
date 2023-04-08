@@ -4,7 +4,7 @@
 
 - ⚡ I’m currently working on Development of Software with Developer FullStack
 
-#### Tecnology:
+#### Skills:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" />
