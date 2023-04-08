@@ -1,7 +1,9 @@
-### Hey I'm ✨CLAUDIOMIDO VENTURA✨
+### Hey I'm CLAUDIOMIDO VENTURA✨
 <hr />
 
-- ⚡ I’m currently working on Development of Software with Developer FullStack
+I'm currently working on Development of Software FullStack.
+
+I reside in Pernambuco Brazil.
 
 #### Skills:
 <div>
