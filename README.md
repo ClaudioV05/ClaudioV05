@@ -4,13 +4,10 @@
 
 - ⚡ I’m currently working on Development of Software with Developer FullStack
 
+## Tecnology:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" height="100" />      
 
 ## Contact:
 <div>
 <a href="https://www.linkedin.com/in/claudiomildoventura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-## Tecnology:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="100" height="100" />
-          
