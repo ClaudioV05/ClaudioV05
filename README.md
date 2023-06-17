@@ -3,7 +3,7 @@
 
 I'm currently working on Development of Software FullStack.
 
-I reside in Pernambuco Brazil.
+I reside in Recife - Pernambuco - Brazil.
 
 #### Skills:
 <div>
