@@ -1,11 +1,15 @@
-### <a class="heading-link">  Hi there! 👋
+### <a class="heading-link">  Hi there!
 
-### Hey, I'm SYSTEM ANALYST FULLSTACK⚡
+### I'm SYSTEM ANALYST FULLSTACK
 <hr />
 
-I'm currently working on .
-
-I living in Recife - Pernambuco - Brazil.
+<ul dir="auto">
+    <li>💻 Working with .NET and Microsoft technologies</li>
+    <li>5️⃣+ years of professional experience in software development</li>
+    <li>📊 Leading a .NET developing team</li>
+    <li>📚 Postgraduate degree in Cloud Computing, Data Security and Technology</li>
+    <li>📚 Bachelor in Information Systems</li>
+</ul>
 
 #### Skills:
 <div>
