@@ -11,12 +11,10 @@
     <li>📚 Bachelor in Information Systems</li>
 </ul>
 
+#### Contact: Skills / Tools
+
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts)](https://skillicons.dev)
-
-<a class="heading-link" href="#skills--tools">Skills / Tools</a>
-
-
-  
+ 
 #### Contact:
 <div>
     <a href="https://www.linkedin.com/in/claudiomildoventura/"target="_blank">
