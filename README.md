@@ -1,4 +1,4 @@
-<a class="heading-link" href="#hi-there-"> Hi there! 👋
+<a class="heading-link"> Hi there! 👋
 
 ### Hey, I'm SYSTEM ANALYST FULLSTACK⚡
 <hr />
