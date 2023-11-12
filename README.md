@@ -11,7 +11,7 @@
     <li>📚 Bachelor in Information Systems</li>
 </ul>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts)](https://skillicons.dev)
 
 <a class="heading-link" href="#skills--tools">Skills / Tools</a>
 
