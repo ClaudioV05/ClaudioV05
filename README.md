@@ -1,7 +1,7 @@
 ### Hey, I'm CLAUDIOMIDO VENTURA⚡
 <hr />
 
-I'm currently working on Development of Software FullStack.
+I'm currently working on System Analyst FullStack.
 
 I reside in Recife - Pernambuco - Brazil.
 
