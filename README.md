@@ -25,3 +25,9 @@ I reside in Recife - Pernambuco - Brazil.
 <div>
 <a href="https://www.linkedin.com/in/claudiomildoventura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>   
 </div>
+
+<div>
+<a href="https://twitter.com/danielhendricks/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+</a>
+</div>
