@@ -11,9 +11,9 @@
     <li>📚 Bachelor in Information Systems</li>
 </ul>
 
-#### Contact: Skills / Tools
+#### Skills / Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react)](https://skillicons.dev)
  
 #### Contact:
 <div>
