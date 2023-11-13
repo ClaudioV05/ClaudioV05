@@ -1,6 +1,3 @@
-### <a class="heading-link">  Hi there!
-
-### I'm SYSTEM ANALYST FULLSTACK
 <hr />
 
 <ul dir="auto">
