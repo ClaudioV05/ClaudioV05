@@ -15,8 +15,8 @@
 #### Connect with me:
 <div>   
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="[https://skillicons.dev](https://github.com/ClaudioV05)">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 </div>
