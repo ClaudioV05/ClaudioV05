@@ -10,7 +10,7 @@
 
 #### Skills / Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,git,github)](https://skillicons.dev)
  
 #### Connect with me:
 <div>   
