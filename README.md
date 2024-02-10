@@ -8,7 +8,7 @@
     <li>📚 Bachelor in Information Systems</li>
 </ul>
 
-#### Skills / Tools:
+#### 🔧 Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,react,git,github)](https://skillicons.dev)
  
