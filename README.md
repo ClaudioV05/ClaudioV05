@@ -14,14 +14,9 @@
  
 #### Connect with me:
 <div>   
-    <a href="https://www.linkedin.com/in/claudiomildoventura/"target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-             target="_blank" >
-    </a>
-    <a>
-        <<img src="https://github.com/ClaudioV05"
-              alt="Github" 
-              data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white"
-              style="max-width: 100%;">
-    </a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
