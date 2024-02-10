@@ -3,7 +3,8 @@
 
  <a href="https://www.linkedin.com/in/claudiomildoventura/" rel="nofollow"><img src="https://camo.githubusercontent.com/8c1db02479b960ea565b434221fb3e57c8ad514b7e37bb20bd9ab34f7312f9ff/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e6b6564696e2d69636f6e2d322e737667" title="Linkedin" alt="Linkedin Account" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width: 100%;"></a>
  
- <a href="https://github.com/Laaaaannn"><img src="https://github.com/Laaaaannn/Laaaaannn/raw/main/github-icon.png" title="GitHub" alt="GitHub" width="30" style="max-width: 100%;"></a>
+ <a href="https://github.com/Laaaaannn"><img src="https://github.com/ClaudioV05/raw/main/github-icon.png" title="GitHub" alt="GitHub" width="30" style="max-width: 100%;"></a>
+ 
  <a href="https://app.daily.dev/lhan08" rel="nofollow"><img src="https://github.com/Laaaaannn/Laaaaannn/raw/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="30" style="max-width: 100%;"></a></p>
 <p dir="auto">I am a web sourcerer 🧙.</p>
 <p dir="auto">I recently started working on open source projects and contribute to&nbsp;different projects in Github.</p>
