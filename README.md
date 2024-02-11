@@ -11,7 +11,7 @@
 <h2 dir="auto"><a id="user-content--dailydev-bookmarks" class="anchor" aria-hidden="true" tabindex="-1" href="#-dailydev-bookmarks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://github.com/Laaaaannn/Laaaaannn/blob/main/daily-dev-icon.jpg"><img src="https://github.com/Laaaaannn/Laaaaannn/raw/main/daily-dev-icon.jpg" title="daily.dev" alt="daily.devGitHub" width="20" style="max-width: 100%;"></a>
 
 <br>
-<a href="https://app.daily.dev/lhan08" rel="nofollow"><img src="https://github.com/Laaaaannn/Laaaaannn/raw/main/devcard.svg" width="250" alt="LaaaaanN's Dev Card" style="max-width: 100%;"></a>
+
 <hr>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/313fe2fa084b0a0a28f37163118a30a18e85511f4228dc9ccdb7bc3429fb6986/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4c61616161616e6e6e"><img src="https://camo.githubusercontent.com/313fe2fa084b0a0a28f37163118a30a18e85511f4228dc9ccdb7bc3429fb6986/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4c61616161616e6e6e" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Laaaaannn" style="max-width: 100%;"></a></p>
+<p dir="auto"></p>
 </article>
