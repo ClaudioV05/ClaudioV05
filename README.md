@@ -2,8 +2,8 @@
 <p dir="auto">
 </p>
 <p dir="auto">💻 Working with Java, .NET and another super technologies.</p>
-<p dir="auto">5️⃣+ years of professional experience in software development.</p>
-<p dir="auto">📊 Leading a .NET developing team.</p>
+<p dir="auto">8️⃣+ years of professional experience in software development.</p>
+<p dir="auto">📊 Leading a Java, .NET developing team.</p>
 <p dir="auto">📚 Postgraduate degree in Cloud Computing, Data Security and Technology.</p>
 <p dir="auto">When I'm not at work, or working on a personal project, I'm hanging out with mates, riding motorcycles 🏍️, exhausting out over running 🏃 and reading about personal development.</p>
   
