@@ -2,7 +2,7 @@
 <p dir="auto">
 </p>
 <p dir="auto">💻 I've been working with Java, Angular, Azure and other super technologies.</p>
-<p dir="auto">8️⃣+ years of professional experience in software engineering.</p>
+<p dir="auto">🔟+ years of professional experience in software engineering.</p>
 <p dir="auto">📊 Tech Lead of a Java engineering team.</p>
 <p dir="auto">📚 Postgraduate degree in Cloud Computing, Data Security and Technology and Master of Business Administration - MBA.</p>
 <p dir="auto">When I'm not at work, or working on a personal project, I'm hanging out with mates, riding motorcycles 🏍️, exhausting out over running 🏃 and reading about personal development.</p>
